@@ -26,6 +26,7 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 * [AMQP Management Specification](https://www.oasis-open.org/committees/document.php?document_id=54441&wg_abbrev=amqp) - Defines a request/response protocol over AMQP to perform management operations (working draft).
 * [AMQP Claims-based Security](https://www.oasis-open.org/committees/document.php?document_id=50506&wg_abbrev=amqp) - Defines a layered protocol to authenticate AMQP clients using security tokens (working draft).
 * [AMQP JMS Mapping](https://www.oasis-open.org/committees/download.php/53086/amqp-bindmap-jms-v1.0-wd05.pdf) - Defines a mapping between JMS messages and AMQP message (working draft).
+
 **OASIS AMQP Technical Committee**
 * [OASIS AMQP TC](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=amqp) - Information about the AMQP Technical Committee.
 
@@ -33,7 +34,7 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 ### Introduction
 
 * [amqp.org](http://www.amqp.org/) - The web site.
-* [Clemens Vasters Channel9 Subscribe!](https://channel9.msdn.com/Blogs/Subscribe) - A series of videos explaining core components in AMQP.
+* [Clemens Vasters Channel9 Subscribe!](https://channel9.msdn.com/Blogs/Subscribe) - A series of videos explaining the core components in AMQP.
   * [Overview](https://channel9.msdn.com/Blogs/Subscribe/The-AMQP-10-Protocol-16-Overview).
   * [Core Elements](https://channel9.msdn.com/Blogs/Subscribe/The-AMQP-10-Protocol-26-Core-Elements).
   * [Message Transfers](https://channel9.msdn.com/Blogs/Subscribe/The-AMQP-10-Protocol-36-Message-Transfers).
@@ -107,7 +108,7 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 * [AMQP on the wire messages content framing](https://paolopatierno.wordpress.com/2015/07/23/amqp-on-the-wire-messages-content-framing/) by Paolo Patierno. A journey inside the messages structure with a sending example.
 * [AMQP message accepted encoding on the wire](https://paolopatierno.wordpress.com/2015/07/24/amqp-message-accepted-encoding-on-the-wire/) by Paolo Patierno. What it means to receive and accept a message at wire level.
 * [Differences between AMQP 0-10 and AMQP 1.0](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_MRG/3/html/Messaging_Programming_Reference/Differences_between_AMQP_0-10_and_AMQP_1.0.html).
-* [What’s up with AMQP 1.0?](http://blogs.mulesoft.com/dev/mule-dev/whats-up-with-amqp-1-0/).
+* [What's up with AMQP 1.0?](http://blogs.mulesoft.com/dev/mule-dev/whats-up-with-amqp-1-0/).
 
 
 ### Contribute
