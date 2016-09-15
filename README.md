@@ -79,10 +79,10 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 * [Microsoft AmqpNetMicro](https://www.nuget.org/packages/AMQPNetMicro/) - A compact version of AmqpNetLite for .Net Micro Framework.
 * [Microsoft Azure AMQP](https://github.com/Azure/azure-amqp) - C#.
 * [Microsoft uAMQP](https://github.com/azure/azure-uamqp-c/) - C.
+* [Apache Qpid JMS](https://qpid.apache.org/components/jms/) - AMQP 1.0 JMS client.
 * [Apache Qpid Proton](https://qpid.apache.org/proton/index.html) - The AMQP messaging toolkit in various languages.
   * Proton-C: C and its language bindings (cpp, go, javascript, node, perl, php, python and ruby).
   * Proton-J: Java.
-  * [Proton JMS](https://qpid.apache.org/components/jms/) - JMS 1.1 API over Proton-J.
 * [node-amqp10](https://github.com/noodlefrenzy/node-amqp10) - A promise-based, AMQP 1.0 compliant node.js client.
 * [Rhea](https://github.com/grs/rhea) - A node.js client.
 * [SwiftMQ AMQP 1.0 Client](http://www.swiftmq.com/products/client/index.html) - Java.
