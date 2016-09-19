@@ -109,6 +109,11 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 * [AMQP protocol built in type system by example](https://paolopatierno.wordpress.com/2015/07/20/amqp-protocol-the-builtin-type-system-by-examples/) by Paolo Patierno. Introduction to AMQP frames and built in type system.
 * [AMQP on the wire messages content framing](https://paolopatierno.wordpress.com/2015/07/23/amqp-on-the-wire-messages-content-framing/) by Paolo Patierno. A journey inside the messages structure with a sending example.
 * [AMQP message accepted encoding on the wire](https://paolopatierno.wordpress.com/2015/07/24/amqp-message-accepted-encoding-on-the-wire/) by Paolo Patierno. What it means to receive and accept a message at wire level.
+* [Routing AMQP : The Qpid Dispatch Router project](https://paolopatierno.wordpress.com/2016/03/21/routing-amqp-the-qpid-dispatch-router-project/) by Paolo Patierno. Introduction to the AMQP router project.
+* [Qpid Dispatch Router installation on your Linux machine](https://paolopatierno.wordpress.com/2016/04/25/qpid-dispatch-router-installation-on-your-linux-machine/) by Paolo Patierno. Installing the AMQP router on a Linux machine.
+* [Routing mechanisms for AMQP protocol](https://paolopatierno.wordpress.com/2016/05/10/routing-mechanisms-for-amqp-protocol/) by Paolo Patierno. AMQP routing mechanisms available with the AMQP router.
+* [My Raspberry Pi runs the Qpid Dispatch Router](https://paolopatierno.wordpress.com/2016/05/14/my-raspberry-pi-runs-the-qpid-dispatch-router/) by Paolo Patierno. How to run the AMQP router on a Raspberry Pi.
+* [A routing IoT gateway to the Cloud](https://paolopatierno.wordpress.com/2016/07/23/a-routing-iot-gateway-to-the-cloud/) by Paolo Patierno. How to use the AMQP router as field IoT gateway to the Azure IoT Hub.
 * [Differences between AMQP 0-10 and AMQP 1.0](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_MRG/3/html/Messaging_Programming_Reference/Differences_between_AMQP_0-10_and_AMQP_1.0.html).
 * [What's up with AMQP 1.0?](http://blogs.mulesoft.com/dev/mule-dev/whats-up-with-amqp-1-0/).
 
