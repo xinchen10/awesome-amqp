@@ -79,15 +79,17 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 * [Microsoft AmqpNetMicro](https://www.nuget.org/packages/AMQPNetMicro/) - A compact version of AmqpNetLite for .Net Micro Framework.
 * [Microsoft Azure AMQP](https://github.com/Azure/azure-amqp) - C#.
 * [Microsoft uAMQP](https://github.com/azure/azure-uamqp-c/) - C.
+* [Apache Qpid JMS](https://qpid.apache.org/components/jms/) - AMQP 1.0 JMS client.
 * [Apache Qpid Proton](https://qpid.apache.org/proton/index.html) - The AMQP messaging toolkit in various languages.
   * Proton-C: C and its language bindings (cpp, go, javascript, node, perl, php, python and ruby).
   * Proton-J: Java.
-  * [Proton JMS](https://qpid.apache.org/components/jms/) - JMS 1.1 API over Proton-J.
 * [node-amqp10](https://github.com/noodlefrenzy/node-amqp10) - A promise-based, AMQP 1.0 compliant node.js client.
 * [Rhea](https://github.com/grs/rhea) - A node.js client.
 * [SwiftMQ AMQP 1.0 Client](http://www.swiftmq.com/products/client/index.html) - Java.
 * [IBM MQ Light](https://developer.ibm.com/messaging/mq-light/) - AMQP 1.0 clients for node.js, Java, Ruby, Python.
 * [amqp-io](https://github.com/xinchen10/amqp-io) - An AMQP serializer for Java objects.
+* [vertx-amqp-bridge](https://github.com/vert-x3/vertx-amqp-bridge) - AMQP 1.0 support implementing the Vert.x MessageProducer and MessageConsumer APIs over vertx-proton.
+* [vertx-proton](https://github.com/vert-x3/vertx-proton) - A thin Vert.x integration for the Apache Qpid Proton protocol engine.
 
 
 ### Tools
