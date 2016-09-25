@@ -90,6 +90,7 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 * [amqp-io](https://github.com/xinchen10/amqp-io) - An AMQP serializer for Java objects.
 * [vertx-amqp-bridge](https://github.com/vert-x3/vertx-amqp-bridge) - AMQP 1.0 support implementing the Vert.x MessageProducer and MessageConsumer APIs over vertx-proton.
 * [vertx-proton](https://github.com/vert-x3/vertx-proton) - A thin Vert.x integration for the Apache Qpid Proton protocol engine.
+* [Rhea Node](https://github.com/ppatierno/rhea-node) - AMQP 1.0 nodes for [Node-RED](http://nodered.org/) and flow programming.
 
 
 ### Tools
