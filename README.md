@@ -21,8 +21,8 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 * [OASIS Advanced Message Queuing Protocol (AMQP)](http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-overview-v1.0-os.xml).
 
 **Extended Specifications and Bindings**
+* [AMQP WebSockets Binding](http://docs.oasis-open.org/amqp-bindmap/amqp-wsb/v1.0/amqp-wsb-v1.0.html) - Defines using the WebSocket protocol as a transport for AMQP (Committee Specification 01).
 * [AMQP Addressing](https://www.oasis-open.org/committees/download.php/52063/amqp-addressing-v1.0-wd05.pdf) - Defines a standard text based syntax and semantics for message addresses used with AMQP (working draft).
-* [AMQP WebSockets Binding](http://docs.oasis-open.org/amqp-bindmap/amqp-wsb/v1.0/amqp-wsb-v1.0.html) - Defines using the WebSocket protocol as a transport for AMQP (working draft).
 * [AMQP Management Specification](https://www.oasis-open.org/committees/document.php?document_id=54441&wg_abbrev=amqp) - Defines a request/response protocol over AMQP to perform management operations (working draft).
 * [AMQP Claims-based Security](https://www.oasis-open.org/committees/document.php?document_id=50506&wg_abbrev=amqp) - Defines a layered protocol to authenticate AMQP clients using security tokens (working draft).
 * [AMQP JMS Mapping](https://www.oasis-open.org/committees/download.php/53086/amqp-bindmap-jms-v1.0-wd05.pdf) - Defines a mapping between JMS messages and AMQP message (working draft).
