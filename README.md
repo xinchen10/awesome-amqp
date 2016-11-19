@@ -119,6 +119,13 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 * [What's up with AMQP 1.0?](http://blogs.mulesoft.com/dev/mule-dev/whats-up-with-amqp-1-0/).
 
 
+### Presentations
+
+* [Azure Service Bus : under the hood](http://www.slideshare.net/paolopat/azure-service-bus-under-the-hood) by Paolo Patierno. How the AMQP protocol works under the cover of the Azure Service Bus.
+* [IoT protocols war ! Battles on the fields ...](http://www.slideshare.net/paolopat/internet-ofthingsprotocolswar) by Paolo Patierno. Comparison between AMQP, MQTT, HTTP and CoAP on different fields like : architecture, implementation and weight, data transport and manipulation, IoT communication patterns and security.
+* [IoT protocols landscape](http://www.slideshare.net/paolopat/io-t-protocols-landscape) by Paolo Patierno. Comparison between AMQP, MQTT, HTTP and CoAP on all their provided features.
+
+
 ### Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
