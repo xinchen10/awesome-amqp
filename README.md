@@ -71,6 +71,7 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
   * [Read](http://sqlstream.com/docs/int_ecda_reading_amqp.html) from AMQP source.
 * [OpenMAMA AMQP Bridge](http://www.openmama.org/middleware-bridges) - Enable communication over AMQP through the Middleware Agnostic Messaging API.
 * [AMQP - Apache Kafka bridge](https://github.com/rhiot/amqp-kafka-bridge) - Connect AMQP clients to Apache Kafka cluster.
+* [AMQP - Apache Spark Streaming](https://github.com/radanalyticsio/streaming-amqp) - Connect AMQP clients to Apache Spark cluster on the streaming side.
 
 
 ### Libraries and Clients
