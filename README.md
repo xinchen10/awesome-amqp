@@ -18,7 +18,7 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 ### Protocol Specifications
 
 **Core Protocol**
-* [OASIS Advanced Message Queuing Protocol (AMQP)](http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-overview-v1.0-os.xml).
+* [OASIS Advanced Message Queuing Protocol (AMQP)](http://docs.oasis-open.org/amqp/core/v1.0/amqp-core-overview-v1.0.html) [[PDF](http://docs.oasis-open.org/amqp/core/v1.0/amqp-core-complete-v1.0.pdf)].
 
 **Extended Specifications and Bindings**
 * [AMQP WebSockets Binding](http://docs.oasis-open.org/amqp-bindmap/amqp-wsb/v1.0/amqp-wsb-v1.0.html) - Defines using the WebSocket protocol as a transport for AMQP (Committee Specification 01).
