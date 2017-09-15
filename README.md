@@ -57,6 +57,7 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 * [Apache Qpid Java Broker](http://qpid.apache.org/components/java-broker/) - A pure-Java AMQP message broker.
 * [Apache Qpid C++ Broker](http://qpid.apache.org/components/cpp-broker/index.html) - A native-code AMQP message broker.
 * [Red Hat JBoss A-MQ](https://www.redhat.com/en/technologies/jboss-middleware/amq) - Based on Apache ActiveMQ.
+* [Solace](http://dev.solace.com/tech/amqp/) - Messaging Platform that supports AMQP 1.0
 * [SwiftMQ](http://www.swiftmq.com) - A JMS broker that has AMQP 1.0 support.
 * [IBM MQ with AMQP channel](https://www.ibm.com/support/knowledgecenter/SSFKSJ_8.0.0/com.ibm.mq.amqp.doc/amqp_support.htm).
 * [RabbitMQ with AMQP 1.0 plugin](https://www.rabbitmq.com/plugins.html) - [Experimental](https://github.com/rabbitmq/rabbitmq-amqp1.0).
