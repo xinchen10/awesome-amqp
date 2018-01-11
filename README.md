@@ -71,7 +71,7 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
   * [Write](http://sqlstream.com/docs/int_ecda_writing_amqp.html) to AMQP destination.
   * [Read](http://sqlstream.com/docs/int_ecda_reading_amqp.html) from AMQP source.
 * [OpenMAMA AMQP Bridge](http://www.openmama.org/middleware-bridges) - Enable communication over AMQP through the Middleware Agnostic Messaging API.
-* [AMQP - Apache Kafka bridge](https://github.com/rhiot/amqp-kafka-bridge) - Connect AMQP clients to Apache Kafka cluster.
+* [AMQP - Apache Kafka bridge](https://github.com/strimzi/amqp-kafka-bridge) - Connect AMQP clients to Apache Kafka cluster.
 * [AMQP - Apache Spark Streaming](https://github.com/radanalyticsio/streaming-amqp) - Connect AMQP clients to Apache Spark cluster on the streaming side.
 
 
@@ -92,7 +92,7 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 * [amqp-io](https://github.com/xinchen10/amqp-io) - An AMQP serializer for Java objects.
 * [vertx-amqp-bridge](https://github.com/vert-x3/vertx-amqp-bridge) - AMQP 1.0 support implementing the Vert.x MessageProducer and MessageConsumer APIs over vertx-proton.
 * [vertx-proton](https://github.com/vert-x3/vertx-proton) - A thin Vert.x integration for the Apache Qpid Proton protocol engine.
-* [Rhea Node](https://github.com/ppatierno/rhea-node) - AMQP 1.0 nodes for [Node-RED](http://nodered.org/) and flow programming.
+* [Rhea Node-RED](https://github.com/ppatierno/rhea-node) - AMQP 1.0 nodes for [Node-RED](http://nodered.org/) and flow programming.
 * [Go AMPQ](https://github.com/vcabbage/amqp) - Golang
 
 
