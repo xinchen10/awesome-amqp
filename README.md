@@ -103,6 +103,7 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 * [Wireshark with AMQP 1.0 dissector](https://www.wireshark.org/).
 * [SwiftMQ AMQP 1.0 Test Suite](http://www.swiftmq.com/developers/amqp_testsuite/index.html).
 * [TestAmqpBroker from AMQP.Net Lite](https://github.com/Azure/amqpnetlite/tree/master/test/TestAmqpBroker).
+* [qpid-bow](https://github.com/Bynder/qpid-bow) - Higher level client framework for Python 3.6+ to communicate with AMQP/Qpid servers combined with a set of CLI tools to manage a Qpid server.
 
 
 ### More Reading
