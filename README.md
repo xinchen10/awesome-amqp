@@ -87,7 +87,7 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 * [Microsoft uAMQP for PHP](https://github.com/vsouz4/azure-uamqp-php/) - PHP bindings for uAMQP for C for PHP 7+.
 * [Apache Qpid JMS](https://qpid.apache.org/components/jms/) - AMQP 1.0 JMS client.
 * [Apache Qpid Proton](https://qpid.apache.org/proton/index.html) - The AMQP messaging toolkit in various languages.
-  * Proton-C: C and its language bindings (cpp, go, javascript, node, perl, php, python and ruby).
+  * Proton-C: C and its language bindings (cpp, go, python, and ruby).
   * Proton-J: Java.
 * [node-amqp10](https://github.com/noodlefrenzy/node-amqp10) - A promise-based, AMQP 1.0 compliant node.js client.
 * [Rhea](https://github.com/grs/rhea) - A node.js client.
