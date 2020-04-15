@@ -52,8 +52,7 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 * [Microsoft Azure Event Hubs](https://azure.microsoft.com/en-us/services/event-hubs/) - Cloud-scale telemetry service.
 * [Microsoft Service Bus For Windows Server (Service Bus 1.1)](https://msdn.microsoft.com/en-us/library/dn282144.aspx).
 * [Apache ActiveMQ](http://activemq.apache.org/) - An open source message broker written in Java. AMQP is one of the supported protocols.
-* [Apache ActiveMQ Apollo](http://activemq.apache.org/apollo/) - ActiveMQ's next generation of messaging.
-* [Apache ActiveMQ Artemis](http://activemq.apache.org/artemis/) - An attempt to merge a number of ActiveMQ features with HornetQ.
+* [Apache ActiveMQ Artemis](https://activemq.apache.org/components/artemis/) - The Next Generation Message Broker by ActiveMQ, AMQP 1.0 is a natively supported protocol.
 * [Apache Qpid Java Broker](http://qpid.apache.org/components/java-broker/) - A pure-Java AMQP message broker.
 * [Apache Qpid C++ Broker](http://qpid.apache.org/components/cpp-broker/index.html) - A native-code AMQP message broker.
 * [Red Hat JBoss A-MQ](https://www.redhat.com/en/technologies/jboss-middleware/amq) - Based on Apache ActiveMQ.
@@ -85,6 +84,7 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 * [Microsoft uAMQP](https://github.com/azure/azure-uamqp-c/) - C.
 * [Microsoft uAMQP for Python](https://github.com/azure/azure-uamqp-python/) - Python bindings for uAMQP for C for Python 3.4+.
 * [Microsoft uAMQP for PHP](https://github.com/vsouz4/azure-uamqp-php/) - PHP bindings for uAMQP for C for PHP 7+.
+* [Apache NMS AMQP](https://github.com/apache/activemq-nms-amqp) - AMQP 1.0 NMS Client for .NET
 * [Apache Qpid JMS](https://qpid.apache.org/components/jms/) - AMQP 1.0 JMS client.
 * [Apache Qpid Proton](https://qpid.apache.org/proton/index.html) - The AMQP messaging toolkit in various languages.
   * Proton-C: C and its language bindings (cpp, go, python, and ruby).
