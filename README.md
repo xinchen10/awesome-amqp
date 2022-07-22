@@ -98,6 +98,7 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 * [vertx-proton](https://github.com/vert-x3/vertx-proton) - A thin Vert.x integration for the Apache Qpid Proton protocol engine.
 * [Rhea Node-RED](https://github.com/ppatierno/rhea-node) - AMQP 1.0 nodes for [Node-RED](http://nodered.org/) and flow programming.
 * [Go AMPQ](https://github.com/vcabbage/amqp) - Golang
+* [fe2o3-amqp](https://github.com/minghuaw/fe2o3-amqp) - A rust implementation of AMQP 1.0 based on tokio and serde
 
 
 ### Tools
