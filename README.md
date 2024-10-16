@@ -59,7 +59,7 @@ A curated list of AMQP 1.0 resources. Unless explicitly stated, AMQP in this lis
 * [Solace](http://dev.solace.com/tech/amqp/) - Messaging Platform that supports AMQP 1.0
 * [SwiftMQ](http://www.swiftmq.com) - A JMS broker that has AMQP 1.0 support.
 * [IBM MQ with AMQP channel](https://www.ibm.com/support/knowledgecenter/SSFKSJ_8.0.0/com.ibm.mq.amqp.doc/amqp_support.htm).
-* [RabbitMQ](https://www.rabbitmq.com) with [AMQP 1.0 plugin](https://github.com/rabbitmq/rabbitmq-amqp1.0).
+* [RabbitMQ](https://www.rabbitmq.com)
 
 
 ### Routers, Adapters, Bridges
